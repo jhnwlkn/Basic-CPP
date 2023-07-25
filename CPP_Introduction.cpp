@@ -1,5 +1,5 @@
 #include<iostream> // ini gunanya sebagai library
-using namespace std; // efisiensi 
+using namespace std; // efisiensi penggunaan std
 
 int main(){ // fungsi utama
     // cout << "Hello world!"; // output
